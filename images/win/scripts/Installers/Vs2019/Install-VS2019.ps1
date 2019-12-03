@@ -117,6 +117,7 @@ $WorkLoads = '--allWorkloads --includeRecommended ' + `
               '--add Microsoft.VisualStudio.ComponentGroup.Azure.ResourceManager.Tools ' + `
               '--add Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Llvm.Clang ' + `
               '--add Microsoft.VisualStudio.ComponentGroup.Web.CloudTools ' + `
+              '--add Microsoft.VisualStudio.ComponentGroup.ArchitectureTools.Managed ' + `
               '--add Microsoft.VisualStudio.Workload.Azure ' + `
               '--add Microsoft.VisualStudio.Workload.Data ' + `
               '--add Microsoft.VisualStudio.Workload.DataScience ' + `
